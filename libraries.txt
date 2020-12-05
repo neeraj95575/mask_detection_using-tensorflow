@@ -1,0 +1,14 @@
+important libraries
+
+
+tensorflow 1.14.0
+
+object-detection 0.1
+
+matplotlib 3.2.1
+
+opencv 4.2.0
+
+
+
+
